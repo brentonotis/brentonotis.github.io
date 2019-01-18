@@ -6,6 +6,10 @@
 - Follow me on [Twitter](https://twitter.com/brentonotis)
 - Connect on [LinkedIn](https://www.linkedin.com/in/brentonotis/)
 
+### Follow my FreeCodeCamp journey
+
+Slowly but surely working through the FreeCodeCamp curriculum [here](https://www.freecodecamp.org/brentonotis)
+
 ### Check out my progress on #JavaScript30 projects
 
 Available through my [JavaScript30 Repo](https://github.com/brentonotis/JavaScript30)
