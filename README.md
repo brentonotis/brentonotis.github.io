@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Brenton's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/brentonotis/brentonotis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Currently under construction (and working on too many projects)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Find my person site [here](https://www.brentonotis.com)
+- Follow me on [Twitter](https://twitter.com/brentonotis)
+- Connect on [LinkedIn](https://www.linkedin.com/in/brentonotis/)
 
-### Markdown
+### Check out my progress on #JavaScript30 projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Available through my [JavaScript30 Repo](https://github.com/brentonotis/JavaScript30)
 
-```markdown
-Syntax highlighted code block
+### See my programming progress in general
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brentonotis/brentonotis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I try to keep just about everything I'm doing on my [Github](https://github.com/brentonotis) - From academic-related endeavors to side-project goodness, if I've put it into code, it's probably there.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to help a newbie out? I'm always looking for mentors/career opportunities/motivation/feedback/etc. Feel free to contact me through any of the above links or shoot me an email [here](mailto:brenton.otis@gmail.com).
