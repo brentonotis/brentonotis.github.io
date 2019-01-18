@@ -108,8 +108,9 @@
       // removes transition when at 90 sec. interval, otherwise resets style
       if (secondsDegrees === 90) {
         allHands.forEach(hand => hand.style.transition = 'none')
+      } else {
+           allHands.forEach(hand => hand.style.transition = '')
       }
-      allHands.forEach(hand => hand.style.transition = '')
     }
 
     setInterval(setDate, 1000);
