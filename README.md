@@ -1,6 +1,6 @@
-## Welcome to Brenton's GitHub Page
+## Welcome to Brenton's GitHub Pages Page
 
-### Currently under construction (and working on too many projects)
+### Find more info. and connect with me
 
 - Find my person site [here](https://www.brentonotis.com)
 - Follow me on [Twitter](https://twitter.com/brentonotis)
