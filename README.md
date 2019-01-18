@@ -1,6 +1,6 @@
 ## Welcome to Brenton's GitHub Pages Page
 
-### Find more info. and connect with me
+### Find more info. and to connect with me
 
 - Find my person site [here](https://www.brentonotis.com)
 - Follow me on [Twitter](https://twitter.com/brentonotis)
